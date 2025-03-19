@@ -69,7 +69,8 @@ nav {
   flex-direction: column;
   align-items: flex-start;
   padding: 20px;
-  height: 70vh;
+  margin-top: 50px;
+  height: 45vh;
 }
 
 .content {
@@ -92,41 +93,6 @@ nav {
 
 #get-in-touch-btn {
   margin: 40px 0;
-}
-
-/* SERVICE */
-
-.services-container {
-  width: 100%;
-  height: auto;
-  display: flex;
-}
-
-.container {
-  display: flex;
-  flex: 1;
-  width: 100%;
-}
-
-.service {
-  flex: 1;
-  padding: 50px;
-  box-sizing: border-box;
-}
-
-#left-service-section {
-  background-color: #aaa96a;
-  color: #595959;
-}
-
-#middle-service-section {
-  background-color: #dc8c50;
-  color: #595959;
-}
-
-#right-service-section {
-  background-color: #ecd0b9;
-  color: #595959;
 }
 
 /* TOOLS */
@@ -226,51 +192,6 @@ nav {
   margin-bottom: 20px;
 }
 
-/* TESTIMONIAL */
-
-.testimonial-name {
-  text-align: center;
-  margin-top: 100px;
-  margin-bottom: 80px;
-  padding-top: 40px;
-  color: #595959;
-}
-
-.testimonial-section {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
-
-.testimonial {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 200px;
-  border: 1px solid #ccc;
-  padding: 15px;
-  border-radius: 8px;
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.testimonial img {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  margin-bottom: 10px;
-}
-
-.rating {
-  margin: 10px 0;
-}
-
-.tesimonials-container {
-  background-color: #ecd0b9;
-  height: auto;
-}
-
 /* ABOUT */
 
 .about-section {
@@ -364,26 +285,6 @@ nav {
 
 #drawing {
   background-color: #ecd0b9;
-}
-
-/* CONTACT ME */
-
-#say-hello-heading {
-  margin: 50px 0 40px;
-  color: #595959;
-  font-weight: 300;
-  font-size: 3rem;
-  text-align: center;
-}
-
-form {
-  background-color: #aaa96a;
-  margin: auto;
-  padding: 50px;
-  border-radius: 8px;
-  max-width: 600px;
-  width: 100%;
-  margin-bottom: 20px;
 }
 
 footer {
