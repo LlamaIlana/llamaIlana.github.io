@@ -8,7 +8,6 @@
 h2 {
   font-weight: 400;
   font-size: 3rem;
-
 }
 
 h3 {
@@ -198,7 +197,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 3rem 3rem 5rem;
+  margin: 15rem 3rem 5rem;
 }
 
 .about {
@@ -247,9 +246,9 @@ nav {
 }
 
 .item img {
-  width: 100%;
+  width: 50%;
   height: auto;
-  padding: 30px;
+  padding: 10px;
 }
 
 .hiking-row {
@@ -267,7 +266,7 @@ nav {
 }
 
 .hiking-item img {
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
