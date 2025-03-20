@@ -134,7 +134,8 @@ nav {
 
 .portfolio-image-1 img,
 .portfolio-image-2 img,
-.portfolio-image-3 img {
+.portfolio-image-3 img,
+.portfolio-image-4 img {
   width: 350px;
   height: 300px;
   object-fit: cover;
